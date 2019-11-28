@@ -1,2 +1,2 @@
-# curso-flex-box-node-studio
+# Curso flex-box node studio
 👨‍💻 Curso de flexbox
